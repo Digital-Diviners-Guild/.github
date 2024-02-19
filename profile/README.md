@@ -10,17 +10,11 @@ All game content and materials are trademarks and copyrights of their respective
 To bridge the realms of digital and tabletop gaming for the RuneScape Kingdoms TTRPG, offering a seamless, engaging experience that faithfully brings the adventures of Gielinor to the tabletop environment.
 
 ### What We Do
-Foundry VTT System Development: We create a custom Foundry VTT system tailored for the RuneScape Kingdoms TTRPG, ensuring a solid foundation for gameplay and storytelling.
-Module Creation: Our team crafts unofficial modules that enrich gameplay, including custom maps, tokens, NPCs, and quests inspired by the RuneScape universe.
-Community Support: We provide resources, guides, and forums for players and game masters, fostering a supportive and engaging community.
+- Foundry VTT System Development: We create a custom Foundry VTT system tailored for the RuneScape Kingdoms TTRPG, ensuring a solid foundation for gameplay and storytelling.
+- Module Creation: Our team crafts unofficial modules that enrich gameplay, including custom maps, tokens, NPCs, and quests inspired by the RuneScape universe.
+- Community Support: We provide resources, guides, and forums for players and game masters, fostering a supportive and engaging community.
 
 ### Getting Started
-Installation Guide: Follow our step-by-step guide [Link to Installation Guide] to start your tabletop adventure in Gielinor.
-- Contribute: Contributions are welcome! See our guidelines [Link to Contribution Guidelines] for how to contribute.
-- Community: Join our Discord [Link to Discord] or forums [Link to Forums] for discussions and updates.
-- Support Us: As a fan-made project, we thrive on community support. Consider donating [Link to Donation Page] or contributing to keep the project alive and well.
-
-### Contact Us
-For questions, feedback, or ideas, reach out to us at [Contact Information] or through our community channels.
+- Installation Guide: Follow our step-by-step guide [Link to Installation Guide] to start your tabletop adventure in Gielinor.
 
 Thank you for joining us on this adventure. Together, we're creating new ways to experience the beloved world of RuneScape on the tabletop.
