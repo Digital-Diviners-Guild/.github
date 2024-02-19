@@ -6,6 +6,8 @@ The Digital Diviners Guild is an independent, fan-made project. We are not affil
 
 All game content and materials are trademarks and copyrights of their respective owners. This project is intended for personal use and aims to support the RuneScape Kingdoms TTRPG community by providing additional tools for gameplay enhancement.
 
+**Note: This system does not provide any content, you will need to populate the item and actor sheets within your foundry world.**
+
 ### Our Vision
 To bridge the realms of digital and tabletop gaming for the RuneScape Kingdoms TTRPG, offering a seamless, engaging experience that faithfully brings the adventures of Gielinor to the tabletop environment.
 
