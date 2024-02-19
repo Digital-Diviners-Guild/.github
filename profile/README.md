@@ -18,8 +18,7 @@ Community Support: We provide resources, guides, and forums for players and game
 Installation Guide: Follow our step-by-step guide [Link to Installation Guide] to start your tabletop adventure in Gielinor.
 - Contribute: Contributions are welcome! See our guidelines [Link to Contribution Guidelines] for how to contribute.
 - Community: Join our Discord [Link to Discord] or forums [Link to Forums] for discussions and updates.
-Support Us
-- As a fan-made project, we thrive on community support. Consider donating [Link to Donation Page] or contributing to keep the project alive and well.
+- Support Us: As a fan-made project, we thrive on community support. Consider donating [Link to Donation Page] or contributing to keep the project alive and well.
 
 ### Contact Us
 For questions, feedback, or ideas, reach out to us at [Contact Information] or through our community channels.
