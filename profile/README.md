@@ -16,7 +16,7 @@ To bridge the realms of digital and tabletop gaming for the RuneScape Kingdoms T
 
 ### Getting Started
 - Installation Guide: Follow our step-by-step guide [Link to Installation Guide] to start your tabletop adventure in Gielinor.
-- Support Us: As a fan-made project, we thrive on community support. Consider [buying us a coffee](https://paypal.me/DigitalDivinersGuild) or contributing to keep the project alive and well.
+- Support Us: As a fan-made project, we thrive on community support. Consider [buying us a coffee](https://ko-fi.com/digitaldivinersguild) or contributing to keep the project alive and well.
 
 ### Contact Us
 For questions, feedback, or ideas, reach out to us at digitaldivinersguild@gmail.com, or utilize github issues.
